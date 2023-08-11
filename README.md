@@ -2,12 +2,13 @@
 
 ****Neden Bu: Birçok Brute Force Denemelerinde Kaldı Ayrıca Açık Kaynaklı Ve Kullanımı-Yapımı Çok Kolaydır.****
 
-****Free Software, Hell Yeah!****
 
 # Kurulum
 
 ```pip install os```
+
 ```pip install random```
+
 ```pip install time```
 
 ```python passgen.py```
